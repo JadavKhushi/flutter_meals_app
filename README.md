@@ -13,4 +13,18 @@
 
 ##screenshots of app:
 
-![home_page](https://github.com/user-attachments/assets/ec426981-7d1c-49de-bb7d-9467f6f45951)
+![home_page](https://github.com/user-attachments/assets/ec426981-7d1c-49de-bb7d-9467f6f45951)  ![drawer](https://github.com/user-attachments/assets/74fff234-1dc3-442f-95f3-15498be3359d)  ![filters](https://github.com/user-attachments/assets/e817af79-d160-4124-8165-0ef87a9fef7e)  ![list](https://github.com/user-attachments/assets/adfc5ad4-b53b-484d-a513-315555bd1b74)  ![details](https://github.com/user-attachments/assets/81012d87-d355-4ac0-bdc1-b1cca64db78c)  ![favorites](https://github.com/user-attachments/assets/44f08508-3036-48da-a06e-bb0f139c45c6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
