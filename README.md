@@ -12,4 +12,5 @@
 - Integration with APIs/Backend: Integrated the app with meal API or local database to fetch meal data and ensure real-time updates and dynamic content.
 
 ##screenshots of app:
-![Screenshot_2025-03-05-19-39-59-05_b3d3326acf7abedfe20a3f49f092cd35](https://github.com/user-attachments/assets/c9b92a2f-47ac-4243-85a7-e2c15f0f20dd)
+
+![home_page](https://github.com/user-attachments/assets/ec426981-7d1c-49de-bb7d-9467f6f45951)
